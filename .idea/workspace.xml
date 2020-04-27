@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e471183-4486-4a94-b980-5bf983e5f112" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/easy/searchInsert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcodeNotes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcodeNotes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2e471183-4486-4a94-b980-5bf983e5f112" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BinarySearch/easy/searchInsert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="285">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -59,9 +51,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="368" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="130" />
+    <option name="y" value="25" />
     <option name="width" value="964" />
     <option name="height" value="728" />
   </component>
@@ -77,11 +69,6 @@
             <path>
               <item name="leetcodeNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodeNotes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcodeNotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcodeNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,19 +113,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587963575039</updated>
-      <workItem from="1587963577708" duration="656000" />
+      <workItem from="1587963577708" duration="1233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="656000" />
+    <option name="totallyTimeSpent" value="1233000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="368" y="23" width="964" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="130" y="25" width="964" height="728" extended-state="1" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2494577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -177,8 +163,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearch/easy/searchInsert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="285">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
